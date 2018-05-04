@@ -3,20 +3,19 @@
 4/1/18,Texasstate_multi,Faculty,android,AppOpen,AppOpen
 4/1/18,Texasstate_multi,Faculty,android,Course List,My Courses
 4/1/18,Texasstate_multi,Faculty,android,Custom Module,Custom Module
+4/1/18,Texasstate_multi,Faculty,android,Directory Details,Directory
+4/1/18,Texasstate_multi,Faculty,android,Directory List,Directory
 4/1/18,Texasstate_multi,Faculty,android,Events Details,Events
 4/1/18,Texasstate_multi,Faculty,android,Events List,Events
-4/1/18,Texasstate_multi,Faculty,android,Events List,Events List
+4/1/18,Texasstate_multi,Faculty,android,Help & Feedback,Help & Feedback
 4/1/18,Texasstate_multi,Faculty,android,Home,Home
 4/1/18,Texasstate_multi,Faculty,android,Important Numbers Detail,Call Emergency
 4/1/18,Texasstate_multi,Faculty,android,Important Numbers List,Call Emergency
 4/1/18,Texasstate_multi,Faculty,android,Info,Info
 4/1/18,Texasstate_multi,Faculty,android,Library,Library
-4/1/18,Texasstate_multi,Faculty,android,Maps List,Maps List
 4/1/18,Texasstate_multi,Faculty,android,Maps List,Shuttle and Maps
 4/1/18,Texasstate_multi,Faculty,android,News Details,News
-4/1/18,Texasstate_multi,Faculty,android,News Details,News Details
 4/1/18,Texasstate_multi,Faculty,android,News List,News
-4/1/18,Texasstate_multi,Faculty,android,News List,News List
 4/1/18,Texasstate_multi,Faculty,android,NotificationManagement,NotificationManagement
 4/1/18,Texasstate_multi,Faculty,android,Notifications Detail,Notifications Detail
 4/1/18,Texasstate_multi,Faculty,android,Notifications,Notifications
@@ -24,9 +23,11 @@
 4/1/18,Texasstate_multi,Faculty,android,Web Module 12,Campus Recreation
 4/1/18,Texasstate_multi,Faculty,android,Web Module 14,Athletics
 4/1/18,Texasstate_multi,Faculty,android,Web Module 15,Tutorial
+4/1/18,Texasstate_multi,Faculty,android,Web Module 18,Visit Campus
 4/1/18,Texasstate_multi,Faculty,android,Web Module 19,Campus Construction
 4/1/18,Texasstate_multi,Faculty,android,Web Module 2,BobcatMail Help
 4/1/18,Texasstate_multi,Faculty,android,Web Module 21,Emergency Info
+4/1/18,Texasstate_multi,Faculty,android,Web Module 3,SAP Portal
 4/1/18,Texasstate_multi,Faculty,android,Web Module 4,Course Catalog
 4/1/18,Texasstate_multi,Faculty,android,Web Module 8,Academic Calendar
 4/1/18,Texasstate_multi,Faculty,android,Web Module 9,Work Life
@@ -40,31 +41,22 @@
 4/1/18,Texasstate_multi,Faculty,iphoneos,AppResume,AppResume
 4/1/18,Texasstate_multi,Faculty,iphoneos,AppSuspend,AppSuspend
 4/1/18,Texasstate_multi,Faculty,iphoneos,Browser,Browser
-4/1/18,Texasstate_multi,Faculty,iphoneos,Course List,Course List
 4/1/18,Texasstate_multi,Faculty,iphoneos,Course List,My Courses
-4/1/18,Texasstate_multi,Faculty,iphoneos,Courses Detail,Courses Detail
 4/1/18,Texasstate_multi,Faculty,iphoneos,Courses Detail,My Courses
 4/1/18,Texasstate_multi,Faculty,iphoneos,Directory Details,Directory
-4/1/18,Texasstate_multi,Faculty,iphoneos,Directory Details,Directory Details
 4/1/18,Texasstate_multi,Faculty,iphoneos,Directory List,Directory
-4/1/18,Texasstate_multi,Faculty,iphoneos,Directory List,Directory List
 4/1/18,Texasstate_multi,Faculty,iphoneos,Directory My Contacts,Directory My Contacts
 4/1/18,Texasstate_multi,Faculty,iphoneos,Events Details,Events
-4/1/18,Texasstate_multi,Faculty,iphoneos,Events Details,Events Details
 4/1/18,Texasstate_multi,Faculty,iphoneos,Events List,Events
-4/1/18,Texasstate_multi,Faculty,iphoneos,Events List,Events List
 4/1/18,Texasstate_multi,Faculty,iphoneos,Home,Home
 4/1/18,Texasstate_multi,Faculty,iphoneos,Important Numbers Detail,Call Emergency
 4/1/18,Texasstate_multi,Faculty,iphoneos,Important Numbers List,Call Emergency
 4/1/18,Texasstate_multi,Faculty,iphoneos,Info,Info
 4/1/18,Texasstate_multi,Faculty,iphoneos,Library,Library
 4/1/18,Texasstate_multi,Faculty,iphoneos,Login,Login
-4/1/18,Texasstate_multi,Faculty,iphoneos,Maps List,Maps List
 4/1/18,Texasstate_multi,Faculty,iphoneos,Maps List,Shuttle and Maps
 4/1/18,Texasstate_multi,Faculty,iphoneos,News Details,News
-4/1/18,Texasstate_multi,Faculty,iphoneos,News Details,News Details
 4/1/18,Texasstate_multi,Faculty,iphoneos,News List,News
-4/1/18,Texasstate_multi,Faculty,iphoneos,News List,News List
 4/1/18,Texasstate_multi,Faculty,iphoneos,Notifications Detail,Notifications Detail
 4/1/18,Texasstate_multi,Faculty,iphoneos,Notifications,Notifications
 4/1/18,Texasstate_multi,Faculty,iphoneos,Share,Info
@@ -73,6 +65,7 @@
 4/1/18,Texasstate_multi,Faculty,iphoneos,Web Module 13,Dining
 4/1/18,Texasstate_multi,Faculty,iphoneos,Web Module 14,Athletics
 4/1/18,Texasstate_multi,Faculty,iphoneos,Web Module 15,Tutorial
+4/1/18,Texasstate_multi,Faculty,iphoneos,Web Module 16,Social Directory
 4/1/18,Texasstate_multi,Faculty,iphoneos,Web Module 17,Web Module 17
 4/1/18,Texasstate_multi,Faculty,iphoneos,Web Module 19,Campus Construction
 4/1/18,Texasstate_multi,Faculty,iphoneos,Web Module 2,BobcatMail Help
@@ -81,34 +74,34 @@
 4/1/18,Texasstate_multi,Faculty,iphoneos,Web Module 8,Academic Calendar
 4/1/18,Texasstate_multi,Faculty,iphoneos,Web Module 9,Work Life
 4/1/18,Texasstate_multi,Faculty,iphoneos,layout.fe.user,layout.fe.user
+4/1/18,Texasstate_multi,Faculty,iphoneos,layout.gr.default,layout.gr.default
 4/1/18,Texasstate_multi,Faculty,iphoneos,layout.gr.user,layout.gr.user
 4/1/18,Texasstate_multi,Faculty,iphoneos,layout.sb.default,layout.sb.default
 4/1/18,Texasstate_multi,Faculty,iphoneos,layout.sb.user,layout.sb.user
 4/1/18,Texasstate_multi,Future Students and Guests,android,App Module 1,BobcatMail
 4/1/18,Texasstate_multi,Future Students and Guests,android,App Module 2,TRACS
 4/1/18,Texasstate_multi,Future Students and Guests,android,AppOpen,AppOpen
+4/1/18,Texasstate_multi,Future Students and Guests,android,Bursar,Student Billing
+4/1/18,Texasstate_multi,Future Students and Guests,android,Course List,My Courses
 4/1/18,Texasstate_multi,Future Students and Guests,android,Custom Module,Custom Module
 4/1/18,Texasstate_multi,Future Students and Guests,android,Events Details,Events
-4/1/18,Texasstate_multi,Future Students and Guests,android,Events Details,Events Details
 4/1/18,Texasstate_multi,Future Students and Guests,android,Events List,Events
-4/1/18,Texasstate_multi,Future Students and Guests,android,Events List,Events List
+4/1/18,Texasstate_multi,Future Students and Guests,android,Help & Feedback,Help & Feedback
+4/1/18,Texasstate_multi,Future Students and Guests,android,Holds,Holds
 4/1/18,Texasstate_multi,Future Students and Guests,android,Home,Home
-4/1/18,Texasstate_multi,Future Students and Guests,android,Image Details,Image Details
 4/1/18,Texasstate_multi,Future Students and Guests,android,Image Details,Photos
-4/1/18,Texasstate_multi,Future Students and Guests,android,Image List,Image List
 4/1/18,Texasstate_multi,Future Students and Guests,android,Image List,Photos
 4/1/18,Texasstate_multi,Future Students and Guests,android,Important Numbers Detail,Call Emergency
 4/1/18,Texasstate_multi,Future Students and Guests,android,Important Numbers List,Call Emergency
 4/1/18,Texasstate_multi,Future Students and Guests,android,Info,Info
 4/1/18,Texasstate_multi,Future Students and Guests,android,Library,Library
-4/1/18,Texasstate_multi,Future Students and Guests,android,Maps List,Maps List
 4/1/18,Texasstate_multi,Future Students and Guests,android,Maps List,Shuttle and Maps
 4/1/18,Texasstate_multi,Future Students and Guests,android,News Details,News
 4/1/18,Texasstate_multi,Future Students and Guests,android,News List,News
 4/1/18,Texasstate_multi,Future Students and Guests,android,NotificationManagement,NotificationManagement
+4/1/18,Texasstate_multi,Future Students and Guests,android,Notifications Detail,Notifications Detail
 4/1/18,Texasstate_multi,Future Students and Guests,android,Notifications,Notifications
 4/1/18,Texasstate_multi,Future Students and Guests,android,Share,Info
-4/1/18,Texasstate_multi,Future Students and Guests,android,Share,Share
 4/1/18,Texasstate_multi,Future Students and Guests,android,Web Module 11,Campus Jobs
 4/1/18,Texasstate_multi,Future Students and Guests,android,Web Module 12,Campus Recreation
 4/1/18,Texasstate_multi,Future Students and Guests,android,Web Module 14,Athletics
@@ -125,32 +118,28 @@
 4/1/18,Texasstate_multi,Future Students and Guests,android,Web Module 8,Academic Calendar
 4/1/18,Texasstate_multi,Future Students and Guests,android,Web Module 9,Work Life
 4/1/18,Texasstate_multi,Future Students and Guests,android,layout.gr.default,layout.gr.default
+4/1/18,Texasstate_multi,Future Students and Guests,android,layout.sb.user,layout.sb.user
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,AppClose,AppClose
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,AppOpen,AppOpen
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,AppResume,AppResume
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,AppSuspend,AppSuspend
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Browser,Browser
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Events Details,Events
-4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Events Details,Events Details
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Events List,Events
-4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Events List,Events List
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Feedback - Cancel,Feedback - Cancel
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Home,Home
-4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Image Details,Image Details
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Image Details,Photos
-4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Image List,Image List
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Image List,Photos
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Important Numbers Detail,Call Emergency
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Important Numbers List,Call Emergency
-4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Important Numbers List,Important Numbers List
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Info,Info
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Library,Library
-4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Maps List,Maps List
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Maps List,Shuttle and Maps
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Notifications Detail,Notifications Detail
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Notifications,Notifications
+4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Share,Info
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Support,Info
-4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Video List,Video List
+4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Video Details,Videos
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Video List,Videos
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Web Module 14,Athletics
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Web Module 15,Tutorial
@@ -162,48 +151,39 @@
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Web Module 5,Future Students
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Web Module 7,PACE Center
 4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,Web Module 8,Academic Calendar
+4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,layout.fe.user,layout.fe.user
+4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,layout.gr.user,layout.gr.user
+4/1/18,Texasstate_multi,Future Students and Guests,iphoneos,layout.sb.user,layout.sb.user
 4/1/18,Texasstate_multi,Students,android,App Module 1,BobcatMail
 4/1/18,Texasstate_multi,Students,android,App Module 2,TRACS
 4/1/18,Texasstate_multi,Students,android,AppOpen,AppOpen
-4/1/18,Texasstate_multi,Students,android,Bursar,Bursar
 4/1/18,Texasstate_multi,Students,android,Bursar,Student Billing
-4/1/18,Texasstate_multi,Students,android,Course List,Course List
 4/1/18,Texasstate_multi,Students,android,Course List,My Courses
-4/1/18,Texasstate_multi,Students,android,Courses Detail,Courses Detail
 4/1/18,Texasstate_multi,Students,android,Courses Detail,My Courses
-4/1/18,Texasstate_multi,Students,android,Courses Grades,Courses Grades
 4/1/18,Texasstate_multi,Students,android,Courses Grades,My Courses
-4/1/18,Texasstate_multi,Students,android,Courses Map View,Courses Map View
 4/1/18,Texasstate_multi,Students,android,Courses Map View,My Courses
 4/1/18,Texasstate_multi,Students,android,Custom Module,Custom Module
 4/1/18,Texasstate_multi,Students,android,Directory Details,Directory
-4/1/18,Texasstate_multi,Students,android,Directory Details,Directory Details
 4/1/18,Texasstate_multi,Students,android,Directory List,Directory
-4/1/18,Texasstate_multi,Students,android,Directory List,Directory List
 4/1/18,Texasstate_multi,Students,android,Events Details,Events
-4/1/18,Texasstate_multi,Students,android,Events Details,Events Details
 4/1/18,Texasstate_multi,Students,android,Events List,Events
-4/1/18,Texasstate_multi,Students,android,Events List,Events List
+4/1/18,Texasstate_multi,Students,android,Help & Feedback,Help & Feedback
+4/1/18,Texasstate_multi,Students,android,Holds,Holds
 4/1/18,Texasstate_multi,Students,android,Home,Home
 4/1/18,Texasstate_multi,Students,android,Image Details,Photos
-4/1/18,Texasstate_multi,Students,android,Image List,Image List
 4/1/18,Texasstate_multi,Students,android,Image List,Photos
 4/1/18,Texasstate_multi,Students,android,Important Numbers Detail,Emergency Call
-4/1/18,Texasstate_multi,Students,android,Important Numbers Detail,Important Numbers Detail
 4/1/18,Texasstate_multi,Students,android,Important Numbers List,Emergency Call
-4/1/18,Texasstate_multi,Students,android,Important Numbers List,Important Numbers List
 4/1/18,Texasstate_multi,Students,android,Info,Info
 4/1/18,Texasstate_multi,Students,android,Library,Library
-4/1/18,Texasstate_multi,Students,android,Maps Detail,Maps Detail
-4/1/18,Texasstate_multi,Students,android,Maps List,Maps List
+4/1/18,Texasstate_multi,Students,android,Maps Detail,Shuttle and Maps
 4/1/18,Texasstate_multi,Students,android,Maps List,Shuttle and Maps
 4/1/18,Texasstate_multi,Students,android,News Details,News
-4/1/18,Texasstate_multi,Students,android,News Details,News Details
 4/1/18,Texasstate_multi,Students,android,News List,News
-4/1/18,Texasstate_multi,Students,android,News List,News List
 4/1/18,Texasstate_multi,Students,android,NotificationManagement,NotificationManagement
 4/1/18,Texasstate_multi,Students,android,Notifications Detail,Notifications Detail
 4/1/18,Texasstate_multi,Students,android,Notifications,Notifications
+4/1/18,Texasstate_multi,Students,android,Share,Info
 4/1/18,Texasstate_multi,Students,android,Web Module 11,Campus Jobs
 4/1/18,Texasstate_multi,Students,android,Web Module 12,Campus Recreation
 4/1/18,Texasstate_multi,Students,android,Web Module 14,Athletics
@@ -223,6 +203,8 @@
 4/1/18,Texasstate_multi,Students,android,layout.gr.default,layout.gr.default
 4/1/18,Texasstate_multi,Students,android,layout.gr.user,layout.gr.user
 4/1/18,Texasstate_multi,Students,android,layout.sb.user,layout.sb.user
+4/1/18,Texasstate_multi,Students,android,push.n.failure,push.n.failure
+4/1/18,Texasstate_multi,Students,android,push.n.success,push.n.success
 4/1/18,Texasstate_multi,Students,iphoneos,App Module 1,BobcatMail
 4/1/18,Texasstate_multi,Students,iphoneos,App Module 2,TRACS
 4/1/18,Texasstate_multi,Students,iphoneos,AppClose,AppClose
@@ -230,48 +212,32 @@
 4/1/18,Texasstate_multi,Students,iphoneos,AppResume,AppResume
 4/1/18,Texasstate_multi,Students,iphoneos,AppSuspend,AppSuspend
 4/1/18,Texasstate_multi,Students,iphoneos,Browser,Browser
-4/1/18,Texasstate_multi,Students,iphoneos,Bursar,Bursar
 4/1/18,Texasstate_multi,Students,iphoneos,Bursar,Student Billing
-4/1/18,Texasstate_multi,Students,iphoneos,Course List,Course List
 4/1/18,Texasstate_multi,Students,iphoneos,Course List,My Courses
-4/1/18,Texasstate_multi,Students,iphoneos,Courses Detail,Courses Detail
 4/1/18,Texasstate_multi,Students,iphoneos,Courses Detail,My Courses
-4/1/18,Texasstate_multi,Students,iphoneos,Courses Grades,Courses Grades
 4/1/18,Texasstate_multi,Students,iphoneos,Courses Grades,My Courses
 4/1/18,Texasstate_multi,Students,iphoneos,Directory Details,Directory
-4/1/18,Texasstate_multi,Students,iphoneos,Directory Details,Directory Details
 4/1/18,Texasstate_multi,Students,iphoneos,Directory List,Directory
-4/1/18,Texasstate_multi,Students,iphoneos,Directory List,Directory List
 4/1/18,Texasstate_multi,Students,iphoneos,Directory My Contacts,Directory My Contacts
 4/1/18,Texasstate_multi,Students,iphoneos,Events Details,Events
-4/1/18,Texasstate_multi,Students,iphoneos,Events Details,Events Details
 4/1/18,Texasstate_multi,Students,iphoneos,Events List,Events
-4/1/18,Texasstate_multi,Students,iphoneos,Events List,Events List
 4/1/18,Texasstate_multi,Students,iphoneos,Feedback - Cancel,Feedback - Cancel
 4/1/18,Texasstate_multi,Students,iphoneos,Holds,Holds
 4/1/18,Texasstate_multi,Students,iphoneos,Home,Home
 4/1/18,Texasstate_multi,Students,iphoneos,Image List,Photos
 4/1/18,Texasstate_multi,Students,iphoneos,Important Numbers Detail,Emergency Call
-4/1/18,Texasstate_multi,Students,iphoneos,Important Numbers Detail,Important Numbers Detail
 4/1/18,Texasstate_multi,Students,iphoneos,Important Numbers List,Emergency Call
-4/1/18,Texasstate_multi,Students,iphoneos,Important Numbers List,Important Numbers List
 4/1/18,Texasstate_multi,Students,iphoneos,Info,Info
 4/1/18,Texasstate_multi,Students,iphoneos,Library,Library
 4/1/18,Texasstate_multi,Students,iphoneos,Login,Login
-4/1/18,Texasstate_multi,Students,iphoneos,Maps Detail,Maps Detail
 4/1/18,Texasstate_multi,Students,iphoneos,Maps Detail,Shuttle and Maps
-4/1/18,Texasstate_multi,Students,iphoneos,Maps List,Maps List
 4/1/18,Texasstate_multi,Students,iphoneos,Maps List,Shuttle and Maps
 4/1/18,Texasstate_multi,Students,iphoneos,News Details,News
-4/1/18,Texasstate_multi,Students,iphoneos,News Details,News Details
 4/1/18,Texasstate_multi,Students,iphoneos,News List,News
-4/1/18,Texasstate_multi,Students,iphoneos,News List,News List
 4/1/18,Texasstate_multi,Students,iphoneos,Notifications Detail,Notifications Detail
 4/1/18,Texasstate_multi,Students,iphoneos,Notifications,Notifications
 4/1/18,Texasstate_multi,Students,iphoneos,Share,Info
-4/1/18,Texasstate_multi,Students,iphoneos,Share,Share
 4/1/18,Texasstate_multi,Students,iphoneos,Support,Info
-4/1/18,Texasstate_multi,Students,iphoneos,Support,Support
 4/1/18,Texasstate_multi,Students,iphoneos,Web Module 1,TRACS_Web
 4/1/18,Texasstate_multi,Students,iphoneos,Web Module 10,My Courses Web
 4/1/18,Texasstate_multi,Students,iphoneos,Web Module 11,Campus Jobs
@@ -286,8 +252,11 @@
 4/1/18,Texasstate_multi,Students,iphoneos,Web Module 6,Student Handbook
 4/1/18,Texasstate_multi,Students,iphoneos,Web Module 7,PACE Center
 4/1/18,Texasstate_multi,Students,iphoneos,Web Module 8,Academic Calendar
+4/1/18,Texasstate_multi,Students,iphoneos,layout.fe.default,layout.fe.default
 4/1/18,Texasstate_multi,Students,iphoneos,layout.fe.user,layout.fe.user
+4/1/18,Texasstate_multi,Students,iphoneos,layout.gr.default,layout.gr.default
 4/1/18,Texasstate_multi,Students,iphoneos,layout.gr.user,layout.gr.user
 4/1/18,Texasstate_multi,Students,iphoneos,layout.sb.default,layout.sb.default
 4/1/18,Texasstate_multi,Students,iphoneos,layout.sb.user,layout.sb.user
+4/1/18,Texasstate_multi,Students,iphoneos,push.n.success,push.n.success
 From,AppName,Client,MobilePlatform,ModuleKey,PageView
